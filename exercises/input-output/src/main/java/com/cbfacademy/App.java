@@ -17,7 +17,7 @@ public class App {
         }
     }
     public static void fileWriterMethod(){
-        String writerFile = "/Users/senam/Documents/Code/entry-to-tech/java-exercises-senamcancode/exercises/input-output/src/main/resources/exercise2.txt";
+        String writerFile = "/Users/esthermakinde/dev/cbf/java-exercises-e-makinde/exercises/input-output/src/main/resources/exercise2.txt";
         String fileName = "/Users/esthermakinde/dev/cbf/java-exercises-e-makinde/exercises/input-output/src/main/java/com/cbfacademy/exercise.txt";
         try (
         FileOutputStream fileOutputStream = new FileOutputStream(writerFile);
